@@ -12,5 +12,6 @@ public class App
         System.out.println("Branch A");
         System.out.println("Branch A");
         System.out.println("Branch A");
+        System.out.println("some changes");
     }
 }
