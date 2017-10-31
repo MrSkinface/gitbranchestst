@@ -7,7 +7,7 @@ import java.util.Base64;
 
 
 /**
- * Hello world!!!!
+ * Hello world!
  *
  */
 public class App 
